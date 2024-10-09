@@ -7,7 +7,7 @@
 <!-- <h3 align="center"><img src="https://github.com/DevanshMathur10/DevanshMathur10/blob/main/images/blue1.png?raw=true" width='1200' height='9' /></h3> -->
 
 # 💫 About Me:
-Hi 👋🏼, Jaiditya Nair here<br>🌱 I’m currently learning Front-End Web Development<br>⚡ Interested in Learning :<br> -->  🧑🏻‍💻 Full-Stack Web Development <br> -->  🤖 Artificial Intelligence
+Hi 👋🏼, Jaiditya Nair here<br>🌱 I’m currently learning about LLM's and AI Agents<br>⚡ Interested in Learning :<br> -->  🧑🏻‍💻 Full-Stack Web Development <br> -->  🤖 Artificial Intelligence
 
 
 ## 🌐 Socials:
